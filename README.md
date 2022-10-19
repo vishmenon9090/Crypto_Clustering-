@@ -16,17 +16,17 @@ The best value is 4 for the k-means
 ## Visualizing the Cryptocurrencies Results for the board
 
 ### 3-D Scatter plot 
-
+![](2.PNG)
 
 
 This plot was obtained using the PCA algoritham to reduce cryptocurrency dimensions.
 
 ### Tradable Cryptocurrencies Table
-
+![](3.PNG)
 
 
 ### 2D-Scatter plot with TotalCoinMined vs TotalCoinSupply
-
+![](4.PNG)
 
 Plotting the scatter plot from two cryptocurrency features directly does not efficiently segregate the different classes. Then using the PCA algorithm is the right method for better visualizations.
 
